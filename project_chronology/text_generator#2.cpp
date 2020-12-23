@@ -55,12 +55,12 @@ public:
 				pos->second.words.insert(std::make_pair(word, 0));
 			auto it = pos->second.words.find(word);
 			it->second++;
-			if (it->second > pos->second.probability && previous != word) {
+			if (it->second > pos->second.probability) {
 				pos->second.actualWords.clear();
 				pos->second.actualWords.push_back(word);
 				pos->second.probability = it->second;
 			}
-			else if (it->second == pos->second.probability || previous == word)
+			else if (it->second == pos->second.probability)
 				pos->second.actualWords.push_back(word);
 		}
 		Pairs edges;
@@ -110,7 +110,6 @@ class TextGenerator {
 			newText.push_back('.');
 		}
 	}
-
 public:
 	std::string NewTextGenerator() {
 		compliationOfNewText(START);
