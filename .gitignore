@@ -48,3 +48,26 @@ Thumbs.db
 *.mov
 *.wmv
 
+textgenerator/Debug/textgenerator.obj
+textgenerator/Debug/textgenerator.tlog/CL.command.1.tlog
+textgenerator/Debug/textgenerator.tlog/CL.read.1.tlog
+textgenerator/Debug/textgenerator.tlog/CL.write.1.tlog
+textgenerator/Debug/textgenerator.tlog/link.command.1.tlog
+textgenerator/Debug/textgenerator.tlog/link.read.1.tlog
+textgenerator/Debug/textgenerator.tlog/link.write.1.tlog
+textgenerator/Debug/textgenerator.tlog/textgenerator.lastbuildstate
+textgenerator/Debug/vc142.idb
+textgenerator/Debug/vc142.pdb
+textgenerator/textgenerator.vcxproj
+textgenerator/textgenerator.vcxproj.filters
+textgenerator/textgenerator.vcxproj.user
+textgenerator/x64/Debug/textgenerator.obj
+textgenerator/x64/Debug/textgenerator.tlog/CL.command.1.tlog
+textgenerator/x64/Debug/textgenerator.tlog/CL.read.1.tlog
+textgenerator/x64/Debug/textgenerator.tlog/CL.write.1.tlog
+textgenerator/x64/Debug/textgenerator.tlog/link.command.1.tlog
+textgenerator/x64/Debug/textgenerator.tlog/link.read.1.tlog
+textgenerator/x64/Debug/textgenerator.tlog/link.write.1.tlog
+textgenerator/x64/Debug/textgenerator.tlog/textgenerator.lastbuildstate
+textgenerator/x64/Debug/vc142.idb
+textgenerator/x64/Debug/vc142.pdb
